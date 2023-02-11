@@ -1,2 +1,3 @@
+select 
 #!/bin/bash
-chown --from=guillauma betty hello
+chown --from=guillaume betty hello
