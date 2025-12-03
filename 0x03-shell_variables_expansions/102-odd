@@ -1,3 +1,2 @@
 #!/bin/bash
 n=0; while IFS= read -r line; do ((n++ % 2)) || echo "$line"; done
-
